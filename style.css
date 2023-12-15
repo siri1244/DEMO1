@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    background-color:hwb(132 13% 65% / 0.071) ;
+    
+    border: 25px solid hsla(78, 90%, 64%, 0.559);
+    margin: 0px;
+    
+}
+h1{
+    color:hsla(54, 89%, 38%, 0.735)
+}
+h2{
+    color: #f49e098e ;
+}
+p{
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: hsla(47, 75%, 47%, 0.927);
+    font-size: large;
+}
+strike{
+    background-color:hsla(25, 75%, 47%, 0.868);
+    color:darkolivegreen;
+}
+button{
+    height: 35px;
+    background-color: #556b2f42;
+}
+input{
+    background-color:#f49e09;
+    font-size: 16px;
+    border: 2px solid ;
+    border-radius: 25px;
+    margin-bottom: 5px;
+}
+textarea{
+    background-color:#f49e09 ;
+    font-size: 16px;
+    border: 2px solid ;
+    border-radius: 25px;
+    margin-bottom: 5px;
+} 
+select{
+    background-color: #f49e09;
+    font-size: 16px;
+    border: 2px solid ;
+    border-radius: 25px;
+    margin-bottom: 5px;
+} 
+label{
+    font-size: larger;
+}
